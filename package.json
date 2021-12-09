@@ -1,0 +1,23 @@
+{
+  "name": "page-fetcher",
+  "version": "1.0.0",
+  "main": "fetcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akremibrahim/page-fetcher.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akremibrahim/page-fetcher/issues"
+  },
+  "homepage": "https://github.com/Akremibrahim/page-fetcher#readme",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "package.json": "^2.0.1"
+  }
+}
